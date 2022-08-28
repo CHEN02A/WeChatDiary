@@ -6,16 +6,16 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "",
+  APP_ID: "wx05081c0a1ed76caf",
 
   // 微信公众号的appsecret
-  APP_SECRET: "",
+  APP_SECRET: "4bcaf5a53e113b3caee22c80bea5c1b4",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "",
+  TEMPLATE_ID: "	fH1onut-JLeZ3h7PPnhdXmfTga1dgYa4syZJMcO_XeQ",
 
   // 天行API的key
-  TXApiKey: "",
+  TXApiKey: "98ff582d942b5843176c8ffe3a8fcfa5",
 
   // 用户列表 可配置多个用户
   user: [
