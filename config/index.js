@@ -12,7 +12,7 @@ const CONFIG = {
   APP_SECRET: "4bcaf5a53e113b3caee22c80bea5c1b4",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "	fH1onut-JLeZ3h7PPnhdXmfTga1dgYa4syZJMcO_XeQ",
+  TEMPLATE_ID: "fH1onut-JLeZ3h7PPnhdXmfTga1dgYa4syZJMcO_XeQ",
 
   // 天行API的key
   TXApiKey: "98ff582d942b5843176c8ffe3a8fcfa5",
